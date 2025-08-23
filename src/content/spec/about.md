@@ -10,3 +10,6 @@ This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
 # About
 这是一个个人博客, 主要用来记录一些学习笔记
+
+> 该博客使用该仓储创建
+> ::github{repo="saicaca/fuwari"}
